@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5505d045f1c4274bad16151a2534d3d, type: 3}
+  m_Name: SecondVoice2
+  m_EditorClassIdentifier: 
+  text: "Do you really think you want to know the answers to these questions? And
+    at the moment it\u2019s more important who you are."
+  answers:
+  - {fileID: 11400000, guid: 4e39cd04800164744a06ab49ebde35a0, type: 2}
+  - {fileID: 11400000, guid: 29aca778468d1cd4182da96e7a382612, type: 2}
+  tag: 

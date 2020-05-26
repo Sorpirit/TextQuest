@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8cf64025c0a4bb8b558b414bfe27e0b, type: 3}
+  m_Name: VoiceAnswer3
+  m_EditorClassIdentifier: 
+  text: Who are you and what have you forgotten here?
+  question: {fileID: 11400000, guid: 2627f2863e468c345977d2d4a60265a5, type: 2}
+  tag: s hide take

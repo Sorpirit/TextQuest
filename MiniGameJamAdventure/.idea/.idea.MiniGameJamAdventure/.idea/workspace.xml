@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca193ac4-ea8a-4a42-9a56-8e73caddc09d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClouseHoleEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BotHit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BotSeeker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/AnswerUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/QuestController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE22A4E8-F83C-41D6-9684-AE7F557133D9/09/e1b308b3/Socket.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/QuestUIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITweening/Greow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITweening/ScenTransitions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITweening/RollFadeIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IDestraktable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IGraberable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorTriiger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlackHalf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponAnimationEventsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RockGrabeable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/ExecutePramsAnswer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IDirectable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerGraber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExiteMouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BotMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AtcivateDelay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuStart.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IGraber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IDestraktable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IDIrectable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlackHalf.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClouseHoleEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IGraberable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RockGrabeable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamageInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IDamageable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponAnimationEventsHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BotMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerGraber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/Quastion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/Question.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/Answer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IDirectable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BotSeeker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BotHit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoorTriiger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AtcivateDelay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UITweening/Greow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UITweening/FedeIn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UITweening/ScenTransitions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExiteMouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/AnswerUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UITweening/RollFadeIn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/ExequtePrams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/ExecutePrams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/ExecutePramsAnswer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/QuestUIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/QuestController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagExecutor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwJ3wdlqLh2tLTxQ12GllITqBP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="6740">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="6740" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca193ac4-ea8a-4a42-9a56-8e73caddc09d" name="Default Changelist" comment="" />
+      <created>1589537029175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589537029175</updated>
+      <workItem from="1589537066605" duration="10080000" />
+      <workItem from="1589620281779" duration="12461000" />
+      <workItem from="1589697765925" duration="7258000" />
+      <workItem from="1589739555520" duration="15684000" />
+      <workItem from="1589799737212" duration="195000" />
+      <workItem from="1589799990075" duration="14475000" />
+      <workItem from="1590479545739" duration="8191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="423" key="GridCell.Tab.0.bottom" timestamp="1590488140532">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140532" />
+    <state width="1877" height="423" key="GridCell.Tab.0.center" timestamp="1590488140532">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140532" />
+    <state width="1877" height="423" key="GridCell.Tab.0.left" timestamp="1590488140532">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140532" />
+    <state width="1877" height="423" key="GridCell.Tab.0.right" timestamp="1590488140532">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140532" />
+    <state width="1877" height="423" key="GridCell.Tab.1.bottom" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.1.center" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.1.left" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.1.right" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.2.bottom" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.2.center" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.2.left" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.2.right" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.3.bottom" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.3.center" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.center/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.3.left" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.left/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state width="1877" height="423" key="GridCell.Tab.3.right" timestamp="1590488140533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.right/0.0.1920.1160@0.0.1920.1160" timestamp="1590488140533" />
+    <state x="1274" y="285" key="RiderGenerateDialog" timestamp="1589743398827">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1274" y="285" key="RiderGenerateDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1589743398827" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1590479554740">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1590479554740" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs</url>
+          <line>62</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" initialLine="62">
+            <startOffsets>
+              <option value="2194" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2226" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs</url>
+          <line>43</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" initialLine="43">
+            <startOffsets>
+              <option value="1425" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1440" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs</url>
+          <line>41</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" initialLine="41">
+            <startOffsets>
+              <option value="1356" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1370" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" initialLine="25">
+            <startOffsets>
+              <option value="617" />
+            </startOffsets>
+            <endOffsets>
+              <option value="773" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" initialLine="14">
+            <startOffsets>
+              <option value="286" />
+            </startOffsets>
+            <endOffsets>
+              <option value="326" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs</url>
+          <line>90</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TextAdventure/TagParser.cs" initialLine="84">
+            <startOffsets>
+              <option value="3289" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3536" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

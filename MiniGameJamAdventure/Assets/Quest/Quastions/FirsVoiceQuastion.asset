@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5505d045f1c4274bad16151a2534d3d, type: 3}
+  m_Name: FirsVoiceQuastion
+  m_EditorClassIdentifier: 
+  text: "Hmm ... Surprisingly, you finally started to pose the right questions. And
+    I thought you would never get to that ...\r"
+  answers:
+  - {fileID: 11400000, guid: 60ead319b2cc343419a6d601ba70cc2a, type: 2}
+  - {fileID: 11400000, guid: 3cfaca5ebfcf16b4eb83243b9569326b, type: 2}
+  - {fileID: 11400000, guid: 971aee0ec61d19649a27c0b1849e51f2, type: 2}
+  - {fileID: 11400000, guid: 4b5f9443dada2a34a9faac85071d19ce, type: 2}
+  tag: 

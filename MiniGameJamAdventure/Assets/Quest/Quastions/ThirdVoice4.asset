@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5505d045f1c4274bad16151a2534d3d, type: 3}
+  m_Name: ThirdVoice4
+  m_EditorClassIdentifier: 
+  text: Your impudence begins to make me angry!
+  answers:
+  - {fileID: 11400000, guid: 1de3d7d3dba393e40936662925381a9a, type: 2}
+  - {fileID: 11400000, guid: 4ebc55da31a264048ac2b8a4b52cebef, type: 2}
+  tag: 
